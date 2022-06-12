@@ -7,3 +7,4 @@ while(i < 10){
 }
 
 console.log('Sdelal commit tut')
+'privet privet privet'
