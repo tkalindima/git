@@ -8,3 +8,4 @@ while(i < 10){
 
 console.log('Sdelal commit tut')
 console.log('glory to ukraine')
+sdelal izmenenie
